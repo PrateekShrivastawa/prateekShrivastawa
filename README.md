@@ -27,7 +27,7 @@
 
 
 ---
-- 🔭 I’m currently working on JavaScript , TypeScript.
+- 🔭 I’m currently working on Spring Boot,Java,MongoDB,ElasticSearch .
 - 🌱 I’m currently learning Advanced Data Structure
 - 💬 Ask me about Data Structure.
 - 😄 Pronouns: He/Him
